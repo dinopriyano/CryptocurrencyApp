@@ -2,7 +2,6 @@ package com.dino.cryptocurrencyapp.domain.usecase.get_coins
 
 import com.dino.cryptocurrencyapp.common.mapper.toCoin
 import com.dino.cryptocurrencyapp.data.source.Resource
-import com.dino.cryptocurrencyapp.data.source.remote.dto.CoinDto
 import com.dino.cryptocurrencyapp.data.source.remote.network.SafeApiCall
 import com.dino.cryptocurrencyapp.domain.model.Coin
 import com.dino.cryptocurrencyapp.domain.repository.CoinRepository
