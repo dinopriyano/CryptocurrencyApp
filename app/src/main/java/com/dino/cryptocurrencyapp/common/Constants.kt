@@ -1,5 +1,7 @@
 package com.dino.cryptocurrencyapp.common
 
-object Constants {
+import com.dino.cryptocurrencyapp.BuildConfig
 
+object Constants {
+    const val BASE_URL = BuildConfig.BASE_API_URL
 }
