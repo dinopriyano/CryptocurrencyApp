@@ -1,4 +1,4 @@
-package com.dino.cryptocurrencyapp.ui.theme
+package com.dino.cryptocurrencyapp.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
